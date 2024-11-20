@@ -1,0 +1,30 @@
+html {
+ height: 100%;
+ width: 100%;
+}
+
+.box {
+  height: 400px;
+  width: 800px;
+  border: solid 3px black;
+}
+
+.red {
+  background-color: crimson;
+}
+
+.blue {
+  background-color: lightblue;
+}
+
+.yellow {
+  background-color: beige;
+}
+
+.green {
+  background-color: lightgreen;
+}
+
+.white {
+  background-color: white;
+}
